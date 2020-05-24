@@ -1,0 +1,9 @@
+Version 2.0 :
+	-> Gestion de plusieurs jeux dans le même fichier.
+	-> Gestion d'un inventaire (plusieurs objets, nombre)
+	
+Version 3.0 :
+	-> Commentaires du code
+	-> Correction d'un bug qui posait problème lors d'un chargement de fichier
+	-> Système de sauvegarde amélioré
+	-> Ajout d'un listing d'objets dans l'éditeur

@@ -1,0 +1,22 @@
+***** Types de conditions :
+	_ 0 -- =
+	_ 1 -- !=
+	_ 2 -- >=
+	_ 3 -- >
+	_ 4 -- <=
+	_ 5 -- <
+
+***** Types de modification d'objet :
+	_ 0 -- Ajouter / Retirer
+	_ 1 -- Remplacer
+
+***** Entrées spéciales :
+	_ Menu = 0 Il -> s'agit de la première entrée créée
+	_ Début de partie = 1
+	_ Fin de partie = -4
+	
+***** Entrées spéciales du menu : 
+	_ Inventaire = -1
+	_ Sauvegarder = -2
+	_ Retour au jeu = -3
+	_ Quitter = -4
