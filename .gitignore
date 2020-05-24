@@ -14,7 +14,8 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+Ldvelh_Editor/*.dll
+Ldvelh_Reader/*.dll
 
 # Fortran module files
 *.mod
@@ -27,6 +28,14 @@
 *.lib
 
 # Executables
-*.exe
+Ldvelh_Editor/*.exe
+Ldvelh_Reader/*.exe
 *.out
 *.app
+
+# CodeBlocks
+*.cbp
+*.depend
+*.layout
+
+
