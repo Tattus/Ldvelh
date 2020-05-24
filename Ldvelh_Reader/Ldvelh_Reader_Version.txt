@@ -1,0 +1,8 @@
+Version 2.0 :
+	-> Lecteur pour Ldvelh_Editor_2.0
+	
+Version 3.0 :
+	-> Commentaires du code
+	-> Correction d'un bug qui posait problème lors d'un chargement de fichier
+	-> Système de sauvegarde amélioré
+	
