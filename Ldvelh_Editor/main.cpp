@@ -43,7 +43,7 @@ int main()
             cout << "3 - Leave" << endl;
         #endif // ENG
         #ifdef ESP
-            cout << "Editor V" << VERSION << " de Libros donde eres el héroe por Tattus" << endl;
+            cout << "Editor V" << VERSION << " de Libros por Tattus" << endl;
             cout << endl << "¿Qué quieres hacer?" << endl;
             cout << "1 - Cargar archivo existente " << endl;
             cout << "2 - Crear archivo nuevo" << endl;
@@ -66,7 +66,7 @@ int main()
                     cout << "Indicate file name" << endl;
                 #endif
                 #ifdef ESP
-                    cout << "Indicar nombre del archivo" << endl;
+                    cout << "Indicar el nombre del archivo" << endl;
                 #endif
                 cin.ignore();
                 getline(cin, fileName);
@@ -80,7 +80,7 @@ int main()
                     cout << "Indicate file name" << endl;
                 #endif
                 #ifdef ESP
-                    cout << "Indicar nombre del archivo" << endl;
+                    cout << "Indicar el nombre del archivo" << endl;
                 #endif
                 cin.ignore();
                 getline(cin, fileName);
@@ -162,7 +162,7 @@ int main()
         #endif
         #ifdef ESP
             cout << "********************************************" << endl;
-            cout << "Editor V" << VERSION << " de Libros donde eres el héroe por Tattus" << endl;
+            cout << "Editor V" << VERSION << " de Libros por Tattus" << endl;
             cout << "¿Qué quieres hacer?" << endl;
             cout << "1 - Mostrar la lista de juegos (";
             cout << gameTab.size() << ")" << endl;

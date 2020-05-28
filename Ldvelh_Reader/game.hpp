@@ -19,7 +19,7 @@
 #include "load_save_bis.hpp"
 
 #define VERSION_BASE "3"
-#define VERSION "3.0"
+#define VERSION "3.1"
 
 
 using namespace std;
