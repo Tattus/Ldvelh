@@ -28,8 +28,10 @@ Ldvelh_Reader/*.dll
 *.lib
 
 # Executables
-Ldvelh_Editor/*.exe
-Ldvelh_Reader/*.exe
+Ldvelh_Editor/bin/Release/*.exe
+Ldvelh_Editor/bin/Debug/*.exe
+Ldvelh_Reader/bin/Release/*.exe
+Ldvelh_Reader/bin/Debug/*.exe
 *.out
 *.app
 
