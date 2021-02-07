@@ -36,7 +36,7 @@ int main()
             cout << endl << "Indicate game file" << endl;
         #endif
         #ifdef ESP
-            cout << "Lector V" << VERSION << " de Libros donde eres el héroe por Tattus" << endl;
+            cout << "Lector V" << VERSION << " de Libros por Tattus" << endl;
             cout << endl << "Indicar el archivo del juego" << endl;
         #endif
         listeGameFiles();
@@ -69,7 +69,7 @@ int main()
             cout << "4 - Leave" << endl;
         #endif
         #ifdef ESP
-            cout << "Lector V" << VERSION << " de Libros donde eres el héroe por Tattus" << endl;
+            cout << "Lector V" << VERSION << " de Libros por Tattus" << endl;
             cout << "¿Qué quieres hacer?" << endl;
             cout << "1 - Mostrar la lista de juegos (";
             cout << gameTab.size() << ")" << endl;

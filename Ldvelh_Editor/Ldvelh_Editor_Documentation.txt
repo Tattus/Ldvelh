@@ -11,7 +11,7 @@
 	_ 1 -- Remplacer
 
 ***** Entrées spéciales :
-	_ Menu = 0 Il -> s'agit de la première entrée créée
+	_ Menu = 0 -> Il s'agit de la première entrée créée
 	_ Début de partie = 1
 	_ Fin de partie = -4
 	
@@ -20,3 +20,51 @@
 	_ Sauvegarder = -2
 	_ Retour au jeu = -3
 	_ Quitter = -4
+	
+--------------------------------------------------------
+***** Condition's type :
+	_ 0 -- =
+	_ 1 -- !=
+	_ 2 -- >=
+	_ 3 -- >
+	_ 4 -- <=
+	_ 5 -- <
+
+***** Object modification's type :
+	_ 0 -- Add / Remove
+	_ 1 -- Replace
+
+***** Special entries :
+	_ Menu = 0 -> It's the first entry created
+	_ Start game = 1
+	_ End game = -4
+	
+***** Menu's special entries : 
+	_ Inventory = -1
+	_ Save = -2
+	_ Back to game = -3
+	_ Leave game = -4
+	
+--------------------------------------------------------
+***** Typo del cambio:
+	_ 0 -- =
+	_ 1 -- !=
+	_ 2 -- >=
+	_ 3 -- >
+	_ 4 -- <=
+	_ 5 -- <
+
+***** Tipos de cambios de objeto :
+	_ 0 -- Añadar / Eliminar
+	_ 1 -- Reemplazar
+
+***** Entradas especiales :
+	_ Menú = 0 -> Es la primera entrada creada
+	_ Comienza el juego = 1
+	_ Juego terminado = -4
+	
+***** Entradas especiales del menú : 
+	_ Inventario = -1
+	_ Salvar = -2
+	_ Volver al juego = -3
+	_ Salir el juego = -4

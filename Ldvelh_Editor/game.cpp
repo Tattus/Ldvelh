@@ -399,7 +399,7 @@ void C_Game::editGame(void)
                 #endif
                 #ifdef ESP
                     cout << "********************************************" << endl;
-                    cout << "***** Types de modification d'objet :" << endl;
+                    cout << "***** Tipos de cambios de objeto :" << endl;
                     cout << "\t0 -> Añadir / Eliminar" << endl;
                     cout << "\t1 -> Reemplazar" << endl;
                     cout << "********************************************" << endl;
