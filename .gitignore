@@ -34,6 +34,8 @@ Ldvelh_Reader/*.exe
 *.app
 
 # CodeBlocks
+Ldvelh_Reader/bin/*
+Ldvelh_Editor/bin/*
 *.cbp
 *.depend
 *.layout
