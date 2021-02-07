@@ -1,1 +1,3 @@
 Pour accéder au menu dans le jeu, il faut entrer 0
+To access menu ingame, use 0
+Para acceder al menú en el juego, debes ingresar 0

@@ -7,3 +7,6 @@ Version 3.0 :
 	-> Correction d'un bug qui posait problème lors d'un chargement de fichier
 	-> Système de sauvegarde amélioré
 	-> Ajout d'un listing d'objets dans l'éditeur
+	
+Version 3.1 :
+	-> Amélioration des traductions
